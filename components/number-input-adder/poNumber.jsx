@@ -1,5 +1,3 @@
-import { useState } from "react";
-import styles from "./number.module.scss";
 import { FiPlus } from "react-icons/fi";
 import { GrFormClose } from "react-icons/gr";
 

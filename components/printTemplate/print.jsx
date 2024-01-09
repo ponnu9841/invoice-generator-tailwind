@@ -1,5 +1,4 @@
 import React from "react";
-import styles from "./print.module.scss";
 import parse from "html-react-parser";
 export default function PrintTemplate(props) {
 	const {
